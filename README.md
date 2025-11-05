@@ -1,4 +1,4 @@
-# PDF Q&A System
+# PDF Q&A System ( PATCHED YOU NEED TO CHANGE THE AI API )
 
 ## 📝 Overview
 
@@ -38,4 +38,5 @@ Here is a list of potential features and enhancements to make the application ev
 * [ ] **PDF Processing Progress Bar**: For larger files, show a visual indicator of the text extraction progress.
 * [ ] **Advanced Chunking Strategy**: For very large documents (e.g., 100+ pages), implement a more intelligent chunking and vector-based retrieval strategy to send only the most relevant context to the model, saving on tokens and improving accuracy.
 * [ ] **Highlight Sources**: Add functionality to highlight or reference the specific page or section of the PDF from which the answer was derived.
+
 * [ ] **User Accounts**: Introduce a simple authentication system to allow users to save and view their document history.
